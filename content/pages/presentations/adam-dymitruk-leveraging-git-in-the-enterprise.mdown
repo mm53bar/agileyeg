@@ -1,0 +1,31 @@
+read more: More details about the presentation
+date: April 19 2010
+categories: presentations
+summary: Come on out on May 5th to hear Adam Dymitruk talk about leveraging Git in the enterprise.
+thumbnail: adam_dymitruk_thumb.png
+
+# Leveraging Git in the Enterprise with Adam Dymitruk
+
+![Adam Dymitruk](/attachments/adam_dymitruk_resized.png)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, May 5th at noon**.
+
+#### Presentation Overview
+
+Git was born from the need to better manage large open source projects. How is integrity of the repository ensured? How easy is it to start working with it? How much faster is it than the rest of the source control tools out there? How does history rewriting add value to how people commit and manage their changes? What are the advantages of the disconnected model? What are the power features of GIT? What powerful and advanced workflows does it enable?
+
+We will systematically look at GIT and answer all the question. There should be some time left over for questions and answers as well!
+
+#### About the Speaker
+
+As a software professional, Adam Dymitruk specializes in .NET development, architecture and Agile practices. Having consulted for numerous clients over the years, he started working with a number of start-ups that are successful. He has also acted as a coach, off-shore development coordinator, strategy consultant, technical lead and development manager for various companies. He has incorporated his own software consulting company as of 1999.
+
+Adam has focused his efforts in helping the development community through many avenues such as the board of directors of Agile Vancouver, conference organization for ALT.NET Canada and foundation of ALT.NET Vancouver. He has also taught I.T. courses at Langara college.
+
+Adam holds a couple of Microsoft certifications and an Associate of Science degree. In his spare time Adam enjoys soccer and the Vancouver lifestyle.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.

@@ -1,0 +1,27 @@
+read more: More details about the presentation
+date: March 20 2010
+categories: presentations
+summary: Norm Chenard is joining us on April 7th to talk about Software Manufacturing.
+thumbnail: norm_chenard_thumb.png
+
+# Software Manufacturing with Norm Chenard
+
+![Norm Chenard](/attachments/norm_chenard_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, April 7th at noon**.
+
+#### Presentation Overview
+
+Why does it seem so much easier to manufacture physical things than it does to manufacture software? There seems to be a lot of lessons that the manufacturing industry learned long ago that we in the software industry struggle with. In his presentation, Software Manufacturing, Norm makes an analogy between software development and machine shop manufacturing. Can some of the approaches that have been obvious for decades in manufacturing be applied to software development? Can we use manufacturing ideas to improve throughput and cycle time in software development?
+
+#### About the Speaker
+
+Norm has had the good fortune of having worked with some amazing people at some amazing companies. During his ‘software life’, he has worked for a defence contractor, an internet start up, an industrial enterprise software products company, and now, a retail software products company. By some sheer stroke of luck, he managed to pass both the PMP and ASQ CSQE exams. He had the patience to sit through a two-day ScrumMaster course, so has been rewarded with a certificate and the right to call himself a Certified ScrumMaster.
+
+After graduating college, Norm’s first job was as a Numerical Control programmer with an Aerospace manufacturing company. To this day he questions why he made the shift from manufacturing physical components to developing software. He is often heard mumbling the question, “Why is it called soft-ware when it’s so hard?”
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
