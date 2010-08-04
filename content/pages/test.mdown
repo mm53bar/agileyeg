@@ -5,4 +5,11 @@ summary: Join us on June 2nd to hear Campbell Lazaruk talk about Dynamic Test Pl
 
 # Dynamic Test Plans with Campbell Lazaruk
 
+
 The next Agile Edmonton user group meeting will be on **Wednesday, June 2nd at noon**.
+
+#### Presentation Overview
+
+Test plans are useful for describing the current state of testing and communicating that information to others. The downside is that if they are not updated regularly, they fail to provide accurate information. If the information is inaccurate, then there is a danger that they will no longer be consulted.
+
+I will discuss the motivation behind using test plans, followed by some of the typical problems that may be encountered. Finally, I will draw upon my team’s experiences with Team Foundation Server, and demonstrate (at a high level) what we did in order to keep our data centralized, updated regularly and consulted frequently: that is, dynamic test plans.
