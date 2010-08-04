@@ -19,7 +19,7 @@ I will discuss the motivation behind using test plans, followed by some of the t
 
 Campbell Lazaruk has been a software tester since the day he graduated from NAIT. He has worked with Matrikon, Inc. for the past 7 years and is currently the Quality Assurance Manager in the products division.
 
-Campbell has a B.Sc, Specialization in Mathematics and a diploma in Computer Engineering Technology from NAIT. When he’s not analyzing numbers, he can be found rocking out on his guitar or reading Slashdot.
+Campbell has a B.Sc, Specialization in Mathematics and a diploma in Computer Engineering Technology from NAIT. When he's not analyzing numbers, he can be found rocking out on his guitar or reading Slashdot.
 
 ---
 
