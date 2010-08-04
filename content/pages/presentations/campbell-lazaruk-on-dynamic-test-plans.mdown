@@ -2,6 +2,7 @@ read more: More details about the presentation
 date: May 27 2010
 categories: presentations
 summary: Join us on June 2nd to hear Campbell Lazaruk talk about Dynamic Test Plans.
+thumbnail: campbell_lazaruk_thumb.png
 
 # Dynamic Test Plans with Campbell Lazaruk
 

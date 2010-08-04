@@ -84,11 +84,15 @@ class FileModel
     metadata("keywords")
   end
 
+  def thumbnail
+    metadata("thumbnail")
+  end
+  
   private
     def markup
       @markup
     end
-
+    
     def metadata(key)
       @metadata[key]
     end
