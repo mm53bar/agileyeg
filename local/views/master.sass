@@ -197,6 +197,7 @@ div.feed
     :margin-bottom 1.4em
     :border-bottom = !border
     :padding-bottom 0.7em
+    :overflow hidden
     
     &:last-child
       :border-bottom none
@@ -261,6 +262,7 @@ div.feed
 
   div.categories,
   p.social
+    :clear both
     :margin 1.5em 0
     :font-family = !sans_serif
     :font-size 85%
@@ -301,7 +303,6 @@ div.feed
 
 #footer
   :clear both
-
   :margin-top 2em
   :border-top = !border
   :padding-top 0.5em
