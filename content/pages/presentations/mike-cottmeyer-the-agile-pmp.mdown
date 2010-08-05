@@ -1,0 +1,32 @@
+read more: More details about the presentation
+thumbnail: mike_cottmeyer_thumb.png
+date: November 17 2009
+categories: presentations, mike-cottmeyer
+summary: Mike Cottmeyer is flying in from Atlanta on SOME_DATE to talk about being an Agile PMP.
+
+#  Mike Cottmeyer on The Agile PMP
+
+![Mike Cottmeyer](/attachments/mike_cottmeyer_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, December 2nd at noon**.
+
+#### Presentation Overview
+
+Agile methods emphasize trust, empowerment, and collaboration—moving us away from command and control project management to harness the passion, creativity, and enthusiasm of the team. In established organizations, success with agile practices hinges on how well traditional project managers adopt new ways of thinking about project structure and control. Building on the principles of the Project Management Body of Knowledge (PMBOK®), Mike explores how PMPs with experience in traditional development can adapt their styles and practices to become effective agile project leaders. Mike tackles the hidden assumptions behind the PMBOK and explores agile approaches for managing time, cost, and scope. Taking an in-depth look at PMIProcesses and Knowledge areas, he also explores ways to adapt them to agile projects. Project managers, business analysts, and other stakeholders will leave with a new way of thinking about project management practices within the agile context and new tools for delivering value in the face of uncertainty.
+
+#### About the Speaker
+
+Mike Cottmeyer is the Vice-President and General Manager of Pillar Technology Southeast. Pillar Technology is the leading provider of agile transformation services helping companies develop the technical practices and leadership competencies required for sustainable organizational change.
+
+Prior to joining Pillar, Mike was an agile consultant, coach, and evangelist for VersionOne. Before VersionOne, Mike was a senior project manager for CheckFree Corporation where he led a portfolio of projects for their online banking and bill payment business unit. Mike has 20 years of experience leading IT initiatives using a combination of traditional, agile, and lean project management best practices.
+
+Mike is a certified PMP Project Manager and a certified ScrumMaster. He co-created the DSDM Agile Project Leader certification and holds Foundation, Practitioner, and Examiner level certificates. Mike is an honorary member of the DSDM Consortium, a founder of the Lean Software and Systems Consortium, and helping lead the AgilePMICommunity of Practice.
+
+Mike speaks internationally on the topic of Agile Project Management and writes for several blogs including [leadingagile.com](http://www.leadingagile.com) and [versionone.com](http://blog.versionone.com) and occasionally for [agilesoftwaredevelopment.com](http://www.agilesoftwaredevelopment.com). Mike co-authored the paper "Rethinking the Agile Enterprise" for the Cutter Consortium and is co-authoring a book on Agile transformations for Addison-Wesley.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+

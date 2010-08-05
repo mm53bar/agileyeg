@@ -1,0 +1,17 @@
+thumbnail: mike_cottmeyer_thumb.png
+categories: speakers
+summary: Mike is a certified PMP Project Manager and a certified ScrumMaster. He co-created the DSDM Agile Project Leader certification and holds Foundation, Practitioner, and Examiner level certificates. Mike is an honorary member of the DSDM Consortium, a founder of the Lean Software and Systems Consortium, and helping lead the AgilePMICommunity of Practice.
+
+#  Mike Cottmeyer
+
+![Mike Cottmeyer](/attachments/mike_cottmeyer_resized.jpg)
+
+Mike Cottmeyer is the Vice-President and General Manager of Pillar Technology Southeast. Pillar Technology is the leading provider of agile transformation services helping companies develop the technical practices and leadership competencies required for sustainable organizational change.
+
+Prior to joining Pillar, Mike was an agile consultant, coach, and evangelist for VersionOne. Before VersionOne, Mike was a senior project manager for CheckFree Corporation where he led a portfolio of projects for their online banking and bill payment business unit. Mike has 20 years of experience leading IT initiatives using a combination of traditional, agile, and lean project management best practices.
+
+Mike is a certified PMP Project Manager and a certified ScrumMaster. He co-created the DSDM Agile Project Leader certification and holds Foundation, Practitioner, and Examiner level certificates. Mike is an honorary member of the DSDM Consortium, a founder of the Lean Software and Systems Consortium, and helping lead the AgilePMICommunity of Practice.
+
+Mike speaks internationally on the topic of Agile Project Management and writes for several blogs including [leadingagile.com](http://www.leadingagile.com) and [versionone.com](http://blog.versionone.com) and occasionally for [agilesoftwaredevelopment.com](http://www.agilesoftwaredevelopment.com). Mike co-authored the paper "Rethinking the Agile Enterprise" for the Cutter Consortium and is co-authoring a book on Agile transformations for Addison-Wesley.
+
+
