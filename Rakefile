@@ -20,6 +20,17 @@ class Factory
   include ModelFactory
 end
 
+class String
+  def slugize
+    self.downcase.gsub(/[^a-z0-9\-]/, '-').squeeze('-').gsub(/^\-/, '').gsub(/\-$/, '')
+  end
+end
+
+def ask(q)
+  print "#{q} "
+  STDIN.gets.strip.chomp
+end
+
 namespace :heroku do
   desc "Set Heroku config vars from config.yml"
   task :config do
@@ -109,3 +120,55 @@ If you want to add attachments to your pages you can drop them in the `#{Nesta::
     )
   end
 end
+
+namespace :article do  
+  desc "Creates a new article"
+  task :create do
+    title = ask('Title?')
+    summary = ask('Summary?')
+    if date = ask("Date (defaults to #{Date.today})? ") and date.length > 0
+      begin
+        article_date = Date.new(*date.split('-').map(&:to_i))
+      rescue => err
+        puts "Whoops, failed to process the date! The format must be #{Date.today}, you gave #{date}"
+        raise err
+        exit 1
+      end
+    else
+      article_date = Date.today
+    end
+    
+    factory = Factory.new
+    filename = File.join("presentations", title.slugize)
+    file = File.join(Nesta::Config.page_path, "#{filename}.mdown")
+    location = "You can change this article by editing `#{file}`."
+    factory.create_article(
+      :heading => title,
+      :path => filename,
+      :metadata => {
+        "date" => article_date.to_s,
+        "categories" => "",
+        "read more" => "Read more",
+        "summary" => summary.chomp
+      },
+      :content => <<-EOF
+Lorem ipsum ... blah blah.\n\n#{location}
+
+Checkout the [Markdown Cheat Sheet](http://daringfireball.net/projects/markdown/syntax) to find out how to format your text to maximum effect.
+
+If you want to add attachments to your articles you can drop them in the `#{Nesta::Config.attachment_path}` directory and refer to them using a URL such as [/attachments/my-file.png](/attachments/my-file.png) (`my-file.png` doesn't exist, but you get the idea). You can obviously refer to inline images using the same URL structure.
+      EOF
+    )
+    
+    puts "Created article #{file}!"
+  end
+end
+
+desc "Runs a server hosting your site on localhost:9393 using shotgun"
+task :server do
+  puts "Server launching on http://localhost:9393"
+  system "bundle exec shotgun app.rb"
+  puts "Bye!"
+end
+
+task :default => :"article:create"
