@@ -147,9 +147,10 @@ namespace :article do
       :path => filename,
       :metadata => {
         "date" => article_date.to_s,
-        "categories" => "",
-        "read more" => "Read more",
-        "summary" => summary.chomp
+        "categories" => "presentations",
+        "read more" => "More details about the presentation",
+        "summary" => summary.chomp,
+        "thumbnail" => 'SPEAKER_NAME_thumb.png'
       },
       :content => <<-EOF
 Lorem ipsum ... blah blah.\n\n#{location}
@@ -157,6 +158,24 @@ Lorem ipsum ... blah blah.\n\n#{location}
 Checkout the [Markdown Cheat Sheet](http://daringfireball.net/projects/markdown/syntax) to find out how to format your text to maximum effect.
 
 If you want to add attachments to your articles you can drop them in the `#{Nesta::Config.attachment_path}` directory and refer to them using a URL such as [/attachments/my-file.png](/attachments/my-file.png) (`my-file.png` doesn't exist, but you get the idea). You can obviously refer to inline images using the same URL structure.
+
+![SPEAKER_NAME](/attachments/SPEAKER_NAME.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, #{article_date.to_s} at noon**.
+
+#### Presentation Overview
+
+Talk a bit about the presentation.
+
+#### About the Speaker
+
+Talk a bit about the speaker.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
       EOF
     )
     
