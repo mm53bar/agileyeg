@@ -12,7 +12,7 @@ The next Agile Edmonton user group meeting will be on **Wednesday, September 2nd
 
 #### Presentation Overview
 
-Software estimation has been called a “black art”. Standard industry methods for estimating software projects are highly complex, geared toward very large waterfall projects and require a myriad of complex and non-intuitive inputs. Often Agile estimation approaches focus on stories or iterations, but fail in their attempt to accurately estimate an entire project.
+Software estimation has been called a "black art". Standard industry methods for estimating software projects are highly complex, geared toward very large waterfall projects and require a myriad of complex and non-intuitive inputs. Often Agile estimation approaches focus on stories or iterations, but fail in their attempt to accurately estimate an entire project.
 
 Quadrus has developed an easily accessible and accurate estimation methodology and tool, built on cutting-edge mathematics and statistics. This presentation will introduce the next generation in software project estimation and demonstrate the Quadrus estimation tool.
 
