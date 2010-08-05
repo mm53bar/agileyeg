@@ -1,0 +1,6 @@
+categories: speakers
+summary: Jim Clark is the Director of Applications Service Delivery for ATCO I-Tek.
+
+#  Jim Clark
+
+Jim Clark is the Director of Applications Service Delivery for ATCO I-Tek.  Jim has over nineteen years of professional IT experience in product development and business solution delivery, including positions of increasing responsibility and challenge with ATCO I-TEK, TransCanada and IBM Canada Ltd.  Ten of those years have been focussed on implementing Agile methods on mid- to large-sized projects.
