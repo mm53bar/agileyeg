@@ -12,11 +12,11 @@ The next Agile Edmonton user group meeting will be on **Wednesday, October 7th a
 
 #### Presentation Overview
 
-Implementing Agile methods on a large project can be extremely difficult.  There can be significant overhead involved in team communication along with a lack of "big picture" perspective.  This gets even more challenging when you're introducing Agile methods on a project that already has an established project management methodology.
+Implementing Agile methods on a large project can be extremely difficult.  There can be significant overhead involved in team communication along with a lack of "big picture" perspective.  This gets even more challenging when you're introducing Agile methods on a project that already has an established project management methodology.
 
 #### About the Speaker
 
-Jim Clark is the Director of Applications Service Delivery for ATCO I-Tek.  Jim has over nineteen years of professional IT experience in product development and business solution delivery, including positions of increasing responsibility and challenge with ATCO I-TEK, TransCanada and IBM Canada Ltd.  Ten of those years have been focussed on implementing Agile methods on mid- to large-sized projects.
+Jim Clark is the Director of Applications Service Delivery for ATCO I-Tek.  Jim has over nineteen years of professional IT experience in product development and business solution delivery, including positions of increasing responsibility and challenge with ATCO I-TEK, TransCanada and IBM Canada Ltd.  Ten of those years have been focussed on implementing Agile methods on mid- to large-sized projects.
 
 ---
 
