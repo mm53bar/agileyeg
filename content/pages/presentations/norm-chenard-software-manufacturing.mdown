@@ -1,6 +1,6 @@
 read more: More details about the presentation
 date: March 20 2010
-categories: presentations
+categories: presentations, norm-chenard
 summary: Norm Chenard is joining us on April 7th to talk about Software Manufacturing.
 thumbnail: norm_chenard_thumb.png
 

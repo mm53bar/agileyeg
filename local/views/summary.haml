@@ -1,7 +1,8 @@
 .summary
   - haml_tag heading do
     %a{ :href => article.abspath }= article.heading
-  %img{ :src => "/attachments/#{article.thumbnail}", :alt => "Bookmark on delicous.com" }
+  - if article.thumbnail
+    %img{ :src => "/attachments/#{article.thumbnail}", :alt => "Bookmark on delicous.com" }
   - if article.summary.nil? || article.summary.empty?
     :maruku
       #{article.body}

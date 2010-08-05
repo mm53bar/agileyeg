@@ -1,6 +1,6 @@
 read more: More details about the presentation
 date: April 19 2010
-categories: presentations
+categories: presentations, adam-dymitruk
 summary: Come on out on May 5th to hear Adam Dymitruk talk about leveraging Git in the enterprise.
 thumbnail: adam_dymitruk_thumb.png
 

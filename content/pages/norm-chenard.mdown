@@ -1,0 +1,11 @@
+categories: speakers
+summary: Norm has had the good fortune of having worked with some amazing people at some amazing companies. During his 'software life', he has worked for a defence contractor, an internet start up, an industrial enterprise software products company, and now, a retail software products company.
+thumbnail: norm_chenard_thumb.png
+
+# Norm Chenard
+
+![Norm Chenard](/attachments/norm_chenard_resized.jpg)
+
+Norm has had the good fortune of having worked with some amazing people at some amazing companies. During his 'software life', he has worked for a defence contractor, an internet start up, an industrial enterprise software products company, and now, a retail software products company. By some sheer stroke of luck, he managed to pass both the PMP and ASQ CSQE exams. He had the patience to sit through a two-day ScrumMaster course, so has been rewarded with a certificate and the right to call himself a Certified ScrumMaster.
+
+After graduating college, Norm's first job was as a Numerical Control programmer with an Aerospace manufacturing company. To this day he questions why he made the shift from manufacturing physical components to developing software. He is often heard mumbling the question, "Why is it called soft-ware when it's so hard?"

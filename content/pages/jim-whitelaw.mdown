@@ -1,0 +1,11 @@
+categories: speakers
+thumbnail: jim_whitelaw_thumb.png
+summary: Jim Whitelaw has been leading software development initiatives for more than 15 years and has been using Agile techniques for more than ten. His focus has been on web-based and web-enabled applications, including library automation and online banking systems.
+
+# Jim Whitelaw
+
+![Jim Whitelaw](/attachments/jim_whitelaw_resized.jpg)
+
+Jim Whitelaw has been leading software development initiatives for more than 15 years and has been using Agile techniques for more than ten. His focus has been on web-based and web-enabled applications, including library automation and online banking systems. In 2006, Jim was hired by AAA video game studio BioWare to lead, coach and train development teams in Agile development. Jim is currently Principal Consultant at <a href="http://denovopro.ca/">denovoPRO Consulting</a>, a company he founded specifically to focus on helping software development teams to transition to Agile development and then grow their Agile expertise.
+
+Jim has a Bachelor of Science degree from the University of Waterloo, has earned his PMP designation from the Project Management Institute and is a Certified Scrum Master. He has a US patent pending for methods related to securing data in online banking. Jim is an active member in the Agile community, a proponent of Scrum, and an enthusiastic leader, teacher and coach.

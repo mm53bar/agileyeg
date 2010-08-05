@@ -1,0 +1,13 @@
+categories: speakers
+summary: As a software professional, Adam Dymitruk specializes in .NET development, architecture and Agile practices. Having consulted for numerous clients over the years, he started working with a number of start-ups that are successful. He has also acted as a coach, off-shore development coordinator, strategy consultant, technical lead and development manager for various companies.
+thumbnail: adam_dymitruk_thumb.png
+
+# Adam Dymitruk
+
+![Adam Dymitruk](/attachments/adam_dymitruk_resized.png)
+
+As a software professional, Adam Dymitruk specializes in .NET development, architecture and Agile practices. Having consulted for numerous clients over the years, he started working with a number of start-ups that are successful. He has also acted as a coach, off-shore development coordinator, strategy consultant, technical lead and development manager for various companies. He has incorporated his own software consulting company as of 1999.
+
+Adam has focused his efforts in helping the development community through many avenues such as the board of directors of Agile Vancouver, conference organization for ALT.NET Canada and foundation of ALT.NET Vancouver. He has also taught I.T. courses at Langara college.
+
+Adam holds a couple of Microsoft certifications and an Associate of Science degree. In his spare time Adam enjoys soccer and the Vancouver lifestyle.
