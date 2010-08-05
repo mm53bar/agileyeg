@@ -1,4 +1,4 @@
-Encoding.default_external = 'UTF-8' if "1.9".respond_to?(:encoding)
+Encoding.default_internal = 'utf-8' if RUBY_VERSION =~ /^1\.9/
 require "sinatra/base"
 require "builder"
 require "haml"
