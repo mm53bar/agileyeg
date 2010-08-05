@@ -1,0 +1,6 @@
+categories: speakers
+summary: Brian Donaldson co-founded Quadrus in 1993 and continues his active role as a senior member of the Quadrus leadership team and as a key strategic advisor to select Quadrus clients.
+
+#  Brian Donaldson
+
+Brian Donaldson co-founded Quadrus in 1993 and continues his active role as a senior member of the Quadrus leadership team and as a key strategic advisor to select Quadrus clients. Brian brings to his role a 20-year track record of success as an IT industry leader and an uncommonly wide breadth of skills and experiences. Brian began his career as a technical software architect, then moved into project management, and then progressed to overall program planning, IT business strategy and executive management. This unusual breadth of experience affords Brian a unique insight into the IT business and has helped him to amass a strong track record of building and leading highly effective teams and directing mission-critical technology initiatives.
