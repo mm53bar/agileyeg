@@ -125,32 +125,34 @@ namespace :article do
   desc "Creates a new article"
   task :create do
     title = ask('Title?')
+    speaker = ask('Speaker?')
+    date = Date.today
     summary = ask('Summary?')
-    if date = ask("Date (defaults to #{Date.today})? ") and date.length > 0
+    if meeting_date = ask("Meeting Date (defaults to #{Date.today})? ") and meeting_date.length > 0
       begin
-        article_date = Date.new(*date.split('-').map(&:to_i))
+        meeting_date = Date.new(*meeting_date.split('-').map(&:to_i))
       rescue => err
-        puts "Whoops, failed to process the date! The format must be #{Date.today}, you gave #{date}"
+        puts "Whoops, failed to process the date! The format must be #{Date.today}, you gave #{meeting_date}"
         raise err
         exit 1
       end
     else
-      article_date = Date.today
+      meeting_date = Date.today
     end
     
     factory = Factory.new
-    filename = File.join("presentations", title.slugize)
+    filename = File.join("presentations", "#{speaker} #{title}".slugize)
     file = File.join(Nesta::Config.page_path, "#{filename}.mdown")
     location = "You can change this article by editing `#{file}`."
     factory.create_article(
-      :heading => title,
+      :heading => "#{speaker} on #{title}",
       :path => filename,
       :metadata => {
-        "date" => article_date.to_s,
-        "categories" => "presentations",
+        "date" => date.to_s,
+        "categories" => "presentations, #{speaker.slugize}",
         "read more" => "More details about the presentation",
         "summary" => summary.chomp,
-        "thumbnail" => 'SPEAKER_NAME_thumb.png'
+        "thumbnail" => "#{speaker.slugize.gsub(/-/, '_')}_thumb.png"
       },
       :content => <<-EOF
 Lorem ipsum ... blah blah.\n\n#{location}
@@ -159,9 +161,9 @@ Checkout the [Markdown Cheat Sheet](http://daringfireball.net/projects/markdown/
 
 If you want to add attachments to your articles you can drop them in the `#{Nesta::Config.attachment_path}` directory and refer to them using a URL such as [/attachments/my-file.png](/attachments/my-file.png) (`my-file.png` doesn't exist, but you get the idea). You can obviously refer to inline images using the same URL structure.
 
-![SPEAKER_NAME](/attachments/SPEAKER_NAME.jpg)
+![#{speaker}](/attachments/#{speaker.slugize.gsub(/-/, '_')}_resized.jpg)
 
-The next Agile Edmonton user group meeting will be on **Wednesday, #{article_date.to_s} at noon**.
+The next Agile Edmonton user group meeting will be on **Wednesday, #{meeting_date.to_s} at noon**.
 
 #### Presentation Overview
 
