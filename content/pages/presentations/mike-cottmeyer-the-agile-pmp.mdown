@@ -2,7 +2,7 @@ read more: More details about the presentation
 thumbnail: mike_cottmeyer_thumb.png
 date: November 17 2009
 categories: presentations, mike-cottmeyer
-summary: Mike Cottmeyer is flying in from Atlanta on SOME_DATE to talk about being an Agile PMP.
+summary: Mike Cottmeyer is flying in from Atlanta on December 2nd to talk about being an Agile PMP.
 
 #  Mike Cottmeyer on The Agile PMP
 
@@ -12,7 +12,7 @@ The next Agile Edmonton user group meeting will be on **Wednesday, December 2nd 
 
 #### Presentation Overview
 
-Agile methods emphasize trust, empowerment, and collaboration—moving us away from command and control project management to harness the passion, creativity, and enthusiasm of the team. In established organizations, success with agile practices hinges on how well traditional project managers adopt new ways of thinking about project structure and control. Building on the principles of the Project Management Body of Knowledge (PMBOK®), Mike explores how PMPs with experience in traditional development can adapt their styles and practices to become effective agile project leaders. Mike tackles the hidden assumptions behind the PMBOK and explores agile approaches for managing time, cost, and scope. Taking an in-depth look at PMIProcesses and Knowledge areas, he also explores ways to adapt them to agile projects. Project managers, business analysts, and other stakeholders will leave with a new way of thinking about project management practices within the agile context and new tools for delivering value in the face of uncertainty.
+Agile methods emphasize trust, empowerment, and collaboration—moving us away from command and control project management to harness the passion, creativity, and enthusiasm of the team. In established organizations, success with agile practices hinges on how well traditional project managers adopt new ways of thinking about project structure and control. Building on the principles of the Project Management Body of Knowledge (PMBOK&reg;), Mike explores how PMPs with experience in traditional development can adapt their styles and practices to become effective agile project leaders. Mike tackles the hidden assumptions behind the PMBOK and explores agile approaches for managing time, cost, and scope. Taking an in-depth look at PMIProcesses and Knowledge areas, he also explores ways to adapt them to agile projects. Project managers, business analysts, and other stakeholders will leave with a new way of thinking about project management practices within the agile context and new tools for delivering value in the face of uncertainty.
 
 #### About the Speaker
 
