@@ -26,6 +26,37 @@ class String
   end
 end
 
+class Date
+  # Returns the date formatted and extended with the %o flag for ordinal day names.
+  def formatted_short
+    strftime("%B %o".gsub("%o", day.ordinal))
+  end
+  
+  def formatted
+    strftime("%Y-%m-%d")
+  end
+end
+
+class Fixnum
+  # Taken from toto
+  def ordinal
+    # 1 => 1st
+    # 2 => 2nd
+    # 3 => 3rd
+    # ...
+    case self % 100
+      when 11..13; "#{self}th"
+    else
+      case self % 10
+        when 1; "#{self}st"
+        when 2; "#{self}nd"
+        when 3; "#{self}rd"
+        else "#{self}th"
+      end
+    end
+  end
+end
+
 def ask(q)
   print "#{q} "
   STDIN.gets.strip.chomp
@@ -126,9 +157,9 @@ namespace :article do
   task :create do
     title = ask('Title?')
     speaker = ask('Speaker?')
-    date = Date.today
+    date = ask("Publish Date (defaults to #{Date.today.formatted})") || Date.today
     summary = ask('Summary?')
-    if meeting_date = ask("Meeting Date (defaults to #{Date.today})? ") and meeting_date.length > 0
+    if meeting_date = ask("Meeting Date (defaults to #{Date.today.formatted})") and meeting_date.length > 0
       begin
         meeting_date = Date.new(*meeting_date.split('-').map(&:to_i))
       rescue => err
@@ -163,7 +194,7 @@ If you want to add attachments to your articles you can drop them in the `#{Nest
 
 ![#{speaker}](/attachments/#{speaker.slugize.gsub(/-/, '_')}_resized.jpg)
 
-The next Agile Edmonton user group meeting will be on **Wednesday, #{meeting_date.to_s} at noon**.
+The next Agile Edmonton user group meeting will be on **Wednesday, #{meeting_date.formatted_short} at noon**.
 
 #### Presentation Overview
 
@@ -192,4 +223,4 @@ task :server do
   puts "Bye!"
 end
 
-task :default => :"article:create"
+task :default => "article:create"
