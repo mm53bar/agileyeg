@@ -1,0 +1,38 @@
+read more: Read more
+date: February 26 2010
+categories: 
+summary: Join us on March 3rd to watch Dustin Friel answer the question 'What is Velocity?'
+thumbnail: dustin_friel_thumb.png
+
+#  Dustin Friel asks 'What is Velocity?'
+
+![Dustin Friel](/attachments/dustin_friel_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, March 3rd at noon**.
+
+#### Presentation Overview
+
+Velocity is a project's or team's rate of progress.  How does your project calculate Velocity?
+
+Should a team focus on increasing Velocity?  Or getting better at being Done? What should a team do if their velocity continues to decrease?
+
+Presenting best practices and not-so best practices pertaining to project and team velocity and release planning. Encouraging open discussion using the audience's experiences with team and project velocity.
+
+#### About the Speaker
+
+Hi! I have 14 years of architecture and application development experience. Some of my recent experiences include being VP, Engineering at Fanminder, a Software Development Manager at Sagebrush Corporation and an Engineering Project Manager with Intuit Inc.
+
+At Intuit, I enjoyed mentoring expert contributors to become better leaders and working with employees on their professional development. During my time with Intuit I managed a growing team that was distributed across four remote locations. My team was repeatedly recognized for its commitment to innovation and our product, FinanceWorks, has won a prestigious award and numerous industry accolades.
+
+In addition to my role with Fanminder, I own a small business that helps companies deliver rich internet applications that delight and wow their customers. In particular, I mentor and coach these companies in Scrum, XP and Test-Driven Development principles.
+
+A little more on Dustin:
+Dustin is extremely passionate about Agile software development practices. He can be seen attending and presenting at the monthly Agile Edmonton meetings. He is a Project Management Professional and a Certified ScrumMaster.
+
+Dustin has a B.Sc. with a major in Physics and a minor in Mathematics from the University of Alberta. He is a loving husband and father of two. In his free time, he writes apps for the iPhone, shoots pool and plays flag football.
+
+----------------------------------------------
+
+This meeting will be held in the IBM Innovation Center at 10044-108th Street. You can find more event information on our website at <a href="http://agileedmonton.org">agileedmonton.org</a>.
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
