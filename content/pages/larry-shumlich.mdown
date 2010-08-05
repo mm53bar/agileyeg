@@ -1,0 +1,6 @@
+categories: speakers
+summary: Larry has over 30 years experience in Information Technology primarily in the delivery of applications.
+
+# Larry Shumlich
+
+Larry has over 30 years experience in Information Technology primarily in the delivery of applications. He was the Project Manager of the PAS Initiative for the last three years of the development project. Larry has been involved in Agile development since the early days and was one of the first Scrum Masters. Larry is currently a Director with CGI and the Delivery Manager for Alberta Health and Wellness.
