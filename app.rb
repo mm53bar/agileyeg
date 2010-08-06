@@ -1,5 +1,5 @@
 # encoding: utf-8
-Encoding.default_internal = 'utf-8' if RUBY_VERSION =~ /^1\.9/
+Encoding.default_external = 'UTF-8' if "1.9".respond_to?(:encoding)
 require "rubygems"
 require "sinatra"
 require "builder"
