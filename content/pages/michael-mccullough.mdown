@@ -1,0 +1,13 @@
+thumbnail: michael_mccullough_thumb.png
+categories: speakers
+summary: Michael McCullough is Senior Technical Director with Quadrus based in Calgary Alberta Canada. Michael is an experienced Consultant, Agile Coach, Certified Scrum Master, Certified PMP, Microsoft Certified Trainer and Instructor.
+
+# Michael McCullough
+
+![Michael McCullough](/attachments/michael_mccullough_resized.jpg)
+
+Michael McCullough is Senior Technical Director with Quadrus based in Calgary Alberta Canada. Michael is an experienced Consultant, Agile Coach, Certified Scrum Master, Certified PMP, Microsoft Certified Trainer and Instructor.
+
+Michael provides expert guidance, training and services to small, medium and large organizations for the introduction and adoption of Agile and Lean approaches with high effectiveness and efficiency. In addition Michael works with individual teams to apply advanced techniques including Agile and Lean approaches for product development. Michael works with both executives and product teams to ensure strategy and business objectives are fully aligned with tactics and technology.
+
+Michael does public speaking across North America on topics relating to Agile, Business Optimization and IT Alignment, Project Management and Team Dynamics.

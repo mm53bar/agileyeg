@@ -1,0 +1,24 @@
+read more: More details about the presentation
+thumbnail: michael_mccullough_thumb.png
+date: 2008-09-18
+categories: presentations, michael-mccullough
+summary: Visit the Agile Playground with Michael McCullough on September 26th.
+
+#  Michael McCullough on The Agile Playground
+
+![Michael McCullough](/attachments/michael_mccullough_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, September 26th at noon**.
+
+#### Presentation Overview
+
+At the recent Agile 2008 conference in Toronto, the final day was set aside for "re-running" the most popular sessions as voted on by the attendees.  "The Agile Playground - Learning Games for the Agile Practitioner" received the largest number of votes.  Michael McCullough, one of the two presenters of this session, will be presenting a 60-minute version of the session (it was originally 90 minutes long) for the Edmonton Agile Methods User Group during a brown bag lunch meeting on Friday, September 26th.  Here is the abstract of the session from the conference:
+
+This fun, energetic, and interactive session will explore techniques for accelerating the adoption and understanding of Agile principles through experiential learning . The audience will participate in games and exercises that will illustrate how to target unique learning Vectors (Physical, Emotional, and Impressional) to maximize understanding. This session is for anyone looking to learn new and powerful techniques to convey and reinforce the concepts and principles behind Agile.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
