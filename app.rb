@@ -1,4 +1,3 @@
-Encoding.default_internal = 'utf-8' if RUBY_VERSION =~ /^1\.9/
 require "rubygems"
 require "sinatra"
 require "builder"
