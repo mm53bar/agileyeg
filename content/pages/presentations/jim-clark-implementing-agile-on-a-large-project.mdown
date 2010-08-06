@@ -12,7 +12,7 @@ The next Agile Edmonton user group meeting will be on **Wednesday, October 7th a
 
 #### Presentation Overview
 
-Implementing Agile methods on a large project can be extremely difficult.  There can be significant overhead involved in team communication along with a lack of "big picture" perspective.  This gets even more challenging when you're introducing Agile methods on a project that already has an established project management methodology.
+Implementing Agile methods on a large project can be extremely difficult.  There can be significant overhead involved in team communication along with a lack of "big picture" perspective.  This gets even more challenging when you're introducing Agile methods on a project that already has an established project management methodology.
 
 #### About the Speaker
 
