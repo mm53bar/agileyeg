@@ -1,0 +1,6 @@
+categories: speakers
+summary: Russell Bryant has worked as a consultant for 15+ years.  Russell has several years experience with Agile in the form of XP, Scrum, and FDD.
+
+#  Russell Bryant
+
+Russell Bryant has worked as a consultant for 15+ years.  Part of that time was with progressive and leading edge organizations such as Clearstream and Object Systems Group.  In the last dozen years he has been consulting independently and eight years ago he formed EbO World.  This is a company focusing on java development and architecture with the principles of focusing on the team, constant improvement, and having fun.  Russell has several years experience with Agile in the form of XP, Scrum, and FDD.  In the role of architect he has consulted to organizations such as EnCana, Enbridge, Telus, and others.

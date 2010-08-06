@@ -1,0 +1,23 @@
+read more: More details about the presentation
+date: 2009-02-19
+categories: presentations, russell-bryant
+summary: Russell Bryant talks about Agile Enterprise Architecture on March 4th.
+
+#  Russell Bryant on Agile Enterprise Architecture
+
+The next Agile Edmonton user group meeting will be on **Wednesday, March 4th at noon**.
+
+#### Presentation Overview
+
+This may sound like an oxymoron but in this presentation I will show that it is not.  At the same time I will challenge the traditional roles and definitions of "Architecture", "Architect", and "Enterprise".  I believe that architecture is a key requirement of any organization or project, regardless of the size and scope.  I also believe that architecture should never be onerous or be an impediment to progress.  The presentation will outline how architecture can be done in an agile way, will support agile development, but it will also expand the consciousness of agile beyond the project into an enterprise way of thinking.
+
+#### About the Speaker
+
+Russell Bryant has worked as a consultant for 15+ years.  Part of that time was with progressive and leading edge organizations such as Clearstream and Object Systems Group.  In the last dozen years he has been consulting independently and eight years ago he formed EbO World.  This is a company focusing on java development and architecture with the principles of focusing on the team, constant improvement, and having fun.  Russell has several years experience with Agile in the form of XP, Scrum, and FDD.  In the role of architect he has consulted to organizations such as EnCana, Enbridge, Telus, and others.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
