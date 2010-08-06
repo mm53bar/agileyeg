@@ -1,0 +1,25 @@
+read more: More details about the presentation
+date: 2009-01-04
+categories: presentations, j-b-rainsberger, niraj-khanna
+summary: J.B. Rainsberger and Niraj Khanna fly in on January 7th to show you how to use strategic selling models to sell agile concepts.
+
+#  J.B. Rainsberger and Niraj Khanna on Your Agile Sales Approach Sucks!
+
+The next Agile Edmonton user group meeting will be on **Wednesday, January 7th at noon**.
+
+#### Presentation Overview
+
+Our talk centers on applying the [strategic selling model of Miller](http://tinyurl.com/cx4b2p) to selling agile concepts. It doesn't matter whether you're an employee selling the idea of agile to your co-workers and manager or an independent service provider selling the idea of agile to prospective customers: you need to stop treating agile like a simple sale and instead understand a model that helps guide you through your sale.
+
+#### About the Speaker
+
+Niraj Khanna ( niraj@greenbarconsulting.com )  has been involved in sales since graduating from Computer Science, despite starting off his career as a Java developer. After his first employer went bankrupt in the dot-com collapse (and his valued stock option compensation plan left him with more options than stock), desperate, he signed on with a large accounting firm needing consultants that had both a client interfacing personality and a background in technology. Midway through his third year as an R&D Tax Consultant and Sales Engineer, a friend introduced him to the concept of agile software development. Intrigued, he borrowed the friend's copy of "XP Explained" by Kent Beck. Inspired and convinced, Niraj's desire to return to the software development industry cemented after a chance meeting with J.B. Rainsberger. In March 2005, Niraj partnered with J.B. Rainsberger as the VP of Sales and Marketing for Diaspar Software. Following 3 very profitable years and J.B.'s retirement in 2008, the two cofounded OutsideInsource in 2009. Niraj also founded GreenBar Consulting in 2009 as he isn't quite retired yet.
+
+J. B. (Joe) Rainsberger helps software organizations better satisfy their customers and the businesses they support. Expert at delivering successful software, he writes, teaches and speaks about why delivering better software is important, but not enough. He helps clients improve their bottom line by coaching teams as well as leading change programs. Joe helps software organizations off the treadmill of over-commitment and under-delivery, addressing all aspects of software delivery including understanding the business, gelling the team and even writing great code. Learn more about how Joe will inspire your software organization at jbrains.ca, at conferences world-wide, or by writing him directly at  me@jbrains.ca .
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+

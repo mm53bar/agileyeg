@@ -1,0 +1,6 @@
+categories: speakers
+summary: Niraj Khanna has been involved in sales since graduating from Computer Science, despite starting off his career as a Java developer.
+
+# Niraj Khanna
+
+Niraj Khanna ( niraj@greenbarconsulting.com )  has been involved in sales since graduating from Computer Science, despite starting off his career as a Java developer. After his first employer went bankrupt in the dot-com collapse (and his valued stock option compensation plan left him with more options than stock), desperate, he signed on with a large accounting firm needing consultants that had both a client interfacing personality and a background in technology. Midway through his third year as an R&D Tax Consultant and Sales Engineer, a friend introduced him to the concept of agile software development. Intrigued, he borrowed the friend's copy of "XP Explained" by Kent Beck. Inspired and convinced, Niraj's desire to return to the software development industry cemented after a chance meeting with J.B. Rainsberger. In March 2005, Niraj partnered with J.B. Rainsberger as the VP of Sales and Marketing for Diaspar Software. Following 3 very profitable years and J.B.'s retirement in 2008, the two cofounded OutsideInsource in 2009. Niraj also founded GreenBar Consulting in 2009 as he isn't quite retired yet.
