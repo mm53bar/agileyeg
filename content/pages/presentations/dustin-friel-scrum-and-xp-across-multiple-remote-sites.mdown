@@ -1,0 +1,35 @@
+read more: More details about the presentation
+thumbnail: dustin_friel_thumb.png
+date: 2009-04-20
+categories: presentations, dustin-friel
+summary: Dustin Friel shares some of the things that he learned while using Scrum and XP across multiple remote sites.
+
+#  Dustin Friel on Scrum and XP Across Multiple Remote Sites
+
+![Dustin Friel](/attachments/dustin_friel_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, May 6th at noon**.
+
+#### Presentation Overview
+
+It was a challenging (but utterly necessary) to lead change across the various sites.  We learned the importance of embedding QA within the Scrums.  We will discuss the perils of working with a large company's established PMO that is accountable to not one, but several auditing organizations.
+
+#### About the Speaker
+
+Hi! I have 14 years of architecture and application development experience. Some of my recent experiences include being VP, Engineering at Fanminder, a Software Development Manager at Sagebrush Corporation and an Engineering Project Manager with Intuit Inc.
+
+At Intuit, I enjoyed mentoring expert contributors to become better leaders and working with employees on their professional development. During my time with Intuit I managed a growing team that was distributed across four remote locations. My team was repeatedly recognized for its commitment to innovation and our product, FinanceWorks, has won a prestigious award and numerous industry accolades.
+
+In addition to my role with Fanminder, I own a small business that helps companies deliver rich internet applications that delight and wow their customers. In particular, I mentor and coach these companies in Scrum, XP and Test-Driven Development principles.
+
+A little more on Dustin:
+Dustin is extremely passionate about Agile software development practices. He can be seen attending and presenting at the monthly Agile Edmonton meetings. He is a Project Management Professional and a Certified ScrumMaster.
+
+Dustin has a B.Sc. with a major in Physics and a minor in Mathematics from the University of Alberta. He is a loving husband and father of two. In his free time, he writes apps for the iPhone, shoots pool and plays flag football.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
