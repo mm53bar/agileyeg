@@ -1,0 +1,9 @@
+thumbnail: adam_geras_thumb.png
+categories: speakers
+summary: Adam Geras has 20 years experience in IT and was involved as a volunteer at the early agile conferences and more recently as a speaker.
+
+#  Adam Geras
+
+![Adam Geras](/attachments/adam_geras_resized.jpg)
+
+Adam Geras has 20 years experience in IT and was involved as a volunteer at the early agile conferences and more recently as a speaker.  He worked for 14 years as a developer/architect before attending the University of Calgary for a Masters researching test-driven development.  Since then, Adam has worked applying agile methods to development projects and commercial off-the-shelf implementations at Ideaca Knowledge Services in Calgary.  He has presented at the main agile conferences in North America and Europe, and at the conference of the association for software testing (CAST).  He coaches regularly on agile methods, agile test management, and methods in general.

@@ -1,0 +1,30 @@
+read more: More details about the presentation
+thumbnail: adam_geras_thumb.png
+date: 2009-05-20
+categories: presentations, adam-geras
+summary: Come listen to Adam describe the intricate role of coaching and being coached on agile projects.
+
+#  Adam Geras on Coaching and Being Coached on Agile Projects
+
+![Adam Geras](/attachments/adam_geras_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, June 3rd at noon**.
+
+#### Presentation Overview
+
+In this talk, Adam will describe the intricate role of coaching and being coached on agile projects, positioning it as one of the core skills that a team has to acquire to be successful with agile.  Positioning the team as a 'team of peers' with a variety of other core skills, the coaching happens amongst team members at almost every level of abstraction, from business knowledge to techniques and tools.  Adam has conducted an informal survey of elite athletes (past and current) and asked them two questions on coaching:
+
+1.  what key characteristic defines your favorite coach, and
+2.  if you saw 'un-coachable' athletes, what characteristic made them 'un-coachable'?
+
+The talk will weave the results of the survey with the positioning of the importance of coaching and being coached on agile projects.
+
+#### About the Speaker
+
+Adam Geras has 20 years experience in IT and was involved as a volunteer at the early agile conferences and more recently as a speaker.  He worked for 14 years as a developer/architect before attending the University of Calgary for a Masters researching test-driven development.  Since then, Adam has worked applying agile methods to development projects and commercial off-the-shelf implementations at Ideaca Knowledge Services in Calgary.  He has presented at the main agile conferences in North America and Europe, and at the conference of the association for software testing (CAST).  He coaches regularly on agile methods, agile test management, and methods in general.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
