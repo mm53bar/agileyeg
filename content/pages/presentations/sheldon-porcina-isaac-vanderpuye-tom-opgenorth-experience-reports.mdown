@@ -1,0 +1,25 @@
+read more: More details about the presentation
+date: 2008-10-24
+categories: presentations, sheldon-porcina, isaac-vanderpuye, tom-opgenorth
+summary: Come out on November 5th to hear three local developers talk about their experiences with agile processes.
+
+#  Sheldon Porcina, Isaac Vanderpuye, Tom Opgenorth on Experience Reports
+
+The next Agile Edmonton user group meeting will be on **Wednesday, November 5th at noon**.
+
+#### Presentation Overview
+
+This meeting will follow the "experience report" format and will have local folks presenting for ten minutes each on their experiences implementing Agile methods.
+
+Sheldon Porcina's presentation, Remote Agility, will cover his 2 years on an Agile team as an engineer working remotely.  The focus will be on issues he encountered as a remote contributor and how they were mitigated.
+
+Isaac Vanderpuye will be presenting an experience report detailing the collaboration between QA and Development to develop and enhance the automation test framework using the pair-programming methodology.
+
+Finally, Tom Opgenorth will be talking about an unnamed topic.  However, he will be at [KaizenConf](http://www.kaizenconf.com/) just before the meeting so I'm sure that his talk will be heavily influenced by that conference.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
