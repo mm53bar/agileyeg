@@ -1,0 +1,9 @@
+thumbnail: mishkin_berteig_thumb.png
+categories: speakers
+summary: Certified Scrum Trainer(TM) Mishkin Berteig has been working with Scrum and other agile methods for over twelve years.  Mishkin is co-founder of [Berteig Consulting Inc.](http://www.berteigconsulting.com) and writes regularly on [Agile Advice](http://www.agileadvice.com)
+
+#  Mishkin Berteig
+
+![Mishkin Berteig](/attachments/mishkin_berteig_resized.jpg)
+
+Mishkin has strategic consulting and coaching experience with large scale lean/agile implementations.  At Capital One, Mishkin was a key contributor to their two-year strategic lean/agile implementation plan for their IT department consisting of over 5000 people.  He then participated as a Master Agile Coach in the implementation of this plan through its first year.  At Liberty Mutual, Mishkin was the lead strategic consultant for an agile implementation plan for an organization of several hundred people.  Mishkin also has extensive experience with consulting, coaching and training at numerous other organizations including Charles Schwab, Telus and RIM.  Certified Scrum Trainer(TM) Mishkin Berteig has been working with Scrum and other agile methods for over twelve years.  Mishkin is co-founder of [Berteig Consulting Inc.](http://www.berteigconsulting.com) and writes regularly on [Agile Advice](http://www.agileadvice.com).

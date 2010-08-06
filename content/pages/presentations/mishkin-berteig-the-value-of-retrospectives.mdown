@@ -1,0 +1,26 @@
+read more: More details about the presentation
+thumbnail: mishkin_berteig_thumb.png
+date: 2009-03-12
+categories: presentations, mishkin-berteig
+summary: Mishkin Berteig flies in on April 1st to talk about the value of retrospectives.
+
+#  Mishkin Berteig on The Value of Retrospectives
+
+![Mishkin Berteig](/attachments/mishkin_berteig_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, April 1st at noon**.
+
+#### Presentation Overview
+
+Agile methods have become popular, but many organizations struggle to get the full benefits of the methods.  The most common reason is that retrospectives are not being properly used.  In this presentation, we will look at the critical role of retrospectives and some factors that contribute to the best use of retrospectives.  We will also examine common retrospective pitfalls and how to avoid them.  After attending this session, you will understand why retrospectives are critical to the success of agile methods and how to get the most value out of retrospectives.
+
+#### About the Speaker
+
+Mishkin has strategic consulting and coaching experience with large scale lean/agile implementations.  At Capital One, Mishkin was a key contributor to their two-year strategic lean/agile implementation plan for their IT department consisting of over 5000 people.  He then participated as a Master Agile Coach in the implementation of this plan through its first year.  At Liberty Mutual, Mishkin was the lead strategic consultant for an agile implementation plan for an organization of several hundred people.  Mishkin also has extensive experience with consulting, coaching and training at numerous other organizations including Charles Schwab, Telus and RIM.  Certified Scrum Trainer(TM) Mishkin Berteig has been working with Scrum and other agile methods for over twelve years.  Mishkin is co-founder of [Berteig Consulting Inc.](http://www.berteigconsulting.com) and writes regularly on [Agile Advice](http://www.agileadvice.com).
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
