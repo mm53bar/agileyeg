@@ -2,7 +2,7 @@ read more: More details about the presentation
 thumbnail: dice_thumb.png
 date: August 4 2009
 categories: presentations, brian-donaldson
-summary: Brian Donaldson talks about the Quadrus method for software project estimation.
+summary: Brian Donaldson joins us on September 2nd to talk about the Quadrus method for software project estimation.
 
 #  Brian Donaldson on Software Project Estimation
 

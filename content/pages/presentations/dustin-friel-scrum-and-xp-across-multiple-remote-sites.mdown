@@ -2,7 +2,7 @@ read more: More details about the presentation
 thumbnail: dustin_friel_thumb.png
 date: 2009-04-20
 categories: presentations, dustin-friel
-summary: Dustin Friel shares some of the things that he learned while using Scrum and XP across multiple remote sites.
+summary: On May 6th, Dustin Friel will share some of the things that he learned while using Scrum and XP across multiple remote sites.
 
 #  Dustin Friel on Scrum and XP Across Multiple Remote Sites
 

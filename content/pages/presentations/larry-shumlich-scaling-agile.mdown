@@ -2,7 +2,7 @@ read more: More details about the presentation
 thumbnail: matterhorn_thumb.png
 date: October 29 2009
 categories: presentations, larry-shumlich
-summary: Join Larry Shumlich to hear about his experiences with scaling agile.
+summary: Join Larry Shumlich on November 4th to hear about his experiences with scaling agile.
 
 #  Larry Shumlich on Scaling Agile
 

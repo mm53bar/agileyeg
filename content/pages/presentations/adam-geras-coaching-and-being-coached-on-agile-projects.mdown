@@ -2,7 +2,7 @@ read more: More details about the presentation
 thumbnail: adam_geras_thumb.png
 date: 2009-05-20
 categories: presentations, adam-geras
-summary: Come listen to Adam describe the intricate role of coaching and being coached on agile projects.
+summary: Come listen to Adam on June 3rd as he describes the intricate role of coaching and being coached on agile projects.
 
 #  Adam Geras on Coaching and Being Coached on Agile Projects
 

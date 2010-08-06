@@ -2,7 +2,7 @@ read more: More details about the presentation
 thumbnail: mistake_bridge_thumb.png
 date: 2009-10-01
 categories: presentations, jim-clark
-summary: Listen to Jim Clark explain how he implemented Agile on a large project.
+summary: Listen to Jim Clark on October 7th as he explains how he implemented Agile on a large project.
 
 #  Jim Clark on Implementing Agile on a Large Project
 
