@@ -1,0 +1,11 @@
+thumbnail: janet_gregory_thumb.png
+categories: speakers
+summary: Janet Gregory is a Calgary-based consultant specializing building quality systems and her passion is promoting agile quality processes.
+
+#  Janet Gregory
+
+![Janet Gregory](/attachments/janet_gregory_resized.jpg)
+
+Janet Gregory is a Calgary-based consultant specializing building quality systems and her passion is promoting agile quality processes.  She has helped to introduce development agile practices into companies as tester or coach, and has successfully transitioned traditional test teams into the agile world.  Her focus is working the business users and testers to understand their role in agile projects.
+
+Her new book that she co-authored with Lisa Crispin was published January 2009.  "Agile Testing: A Practical Guide for Testers and Agile Teams" is available on [Amazon](http://www.amazon.ca/Agile-Testing-Practical-Guide-Testers/dp/0321534468/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1233081519&amp;sr=8-1) or any other on-line bookstore.

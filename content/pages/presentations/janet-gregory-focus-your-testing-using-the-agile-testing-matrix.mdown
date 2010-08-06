@@ -1,0 +1,28 @@
+read more: More details about the presentation
+thumbnail: janet_gregory_thumb.png
+date: 2009-01-27
+categories: presentations, janet-gregory
+summary: Join Janet Gregory on February 4th to learn how to implement an agile testing matrix.
+
+#  Janet Gregory on Focus Your Testing using the Agile Testing Matrix
+
+![Janet Gregory](/attachments/janet_gregory_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, February 4th at noon**.
+
+#### Presentation Overview
+
+The agile testing matrix provides a common vocabulary to agile teams for customers, testers and developers.  It is a powerful tool which focuses on the purpose of different types of testing necessary for any agile project.  There are tests that support the team and drive development, and tests which critique the product.  Janet will talk about the different roles on a team and how they can work together to get all your testing done.
+
+#### About the Speaker
+
+Janet Gregory is a Calgary-based consultant specializing building quality systems and her passion is promoting agile quality processes.  She has helped to introduce development agile practices into companies as tester or coach, and has successfully transitioned traditional test teams into the agile world.  Her focus is working the business users and testers to understand their role in agile projects.
+
+Her new book that she co-authored with Lisa Crispin was published January 2009.  "Agile Testing: A Practical Guide for Testers and Agile Teams" is available on [Amazon](http://www.amazon.ca/Agile-Testing-Practical-Guide-Testers/dp/0321534468/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1233081519&amp;sr=8-1) or any other on-line bookstore.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
