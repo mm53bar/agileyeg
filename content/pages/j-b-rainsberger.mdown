@@ -4,6 +4,6 @@ thumbnail: jb_rainsberger_thumb.png
 
 #  J.B. Rainsberger
 
-![Adam Dymitruk](/attachments/jb_rainsberger_resized.png)
+![J.B. Rainsberger](/attachments/jb_rainsberger_resized.jpg)
 
 J. B. (Joe) Rainsberger helps software organizations better satisfy their customers and the businesses they support. Expert at delivering successful software, he writes, teaches and speaks about why delivering better software is important, but not enough. He helps clients improve their bottom line by coaching teams as well as leading change programs. Joe helps software organizations off the treadmill of over-commitment and under-delivery, addressing all aspects of software delivery including understanding the business, gelling the team and even writing great code. Learn more about how Joe will inspire your software organization at jbrains.ca, at conferences world-wide, or by writing him directly at me@jbrains.ca .
