@@ -1,0 +1,28 @@
+read more: More details about the presentation
+thumbnail: jim_whitelaw_thumb.png
+date: 2010-08-23
+categories: presentations, jim-whitelaw
+summary: Jim Whitelaw kicks off the new season on September 1st by analyzing some common burndown chart patterns.
+
+#  Jim Whitelaw analyzes Scrum Burndown Signatures
+
+![Jim Whitelaw](/attachments/jim_whitelaw_resized.jpg)
+
+The next Agile Edmonton user group meeting will be on **Wednesday, September 1st at noon**.
+
+#### Presentation Overview
+
+Scrum burndown charts often display similar patterns or signatures. In many cases these signatures can indicate some form of dysfunction in the team or environment. We will examine a number of common burndown signatures and their causes. Expect plenty of discussion as we incorporate audience examples in the presentation.
+
+#### About the Speaker
+
+Jim Whitelaw has been leading software development initiatives for more than 15 years and has been using Agile techniques for more than ten. His focus has been on web-based and web-enabled applications, including library automation and online banking systems. In 2006, Jim was hired by AAA video game studio BioWare to lead, coach and train development teams in Agile development. Jim is currently Principal Consultant at <a href="http://denovopro.ca/">denovoPRO Consulting</a>, a company he founded specifically to focus on helping software development teams to transition to Agile development and then grow their Agile expertise.
+
+Jim has a Bachelor of Science degree from the University of Waterloo, has earned his PMP designation from the Project Management Institute and is a Certified Scrum Master. He has a US patent pending for methods related to securing data in online banking. Jim is an active member in the Agile community, a proponent of Scrum, and an enthusiastic leader, teacher and coach.
+
+---
+
+This meeting will be held in the [IBM Innovation Center at 10044-108th Street](http://maps.google.ca/maps?hl=en&safe=off&q=10044-108th+Street,edmonton,ab&ie=UTF8&hq=&hnear=10044+108+St+NW,+Edmonton,+Division+No.+11,+Alberta+T5J+3S7&gl=ca&ei=cJ9ZTLmPKNntnQev7_mxCQ&ved=0CBUQ8gEwAA&t=h&z=16). You can find more event information on our website at [agileedmonton.org](http://agileedmonton.org).
+
+If possible, try to show up a bit before noon so that we can get started on time. Be sure to forward this information to anybody that would be interested.
+
