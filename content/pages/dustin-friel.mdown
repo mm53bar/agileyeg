@@ -1,4 +1,4 @@
-categories: speakers
+categories: speakers, organizers
 summary: Hi! I have 14 years of architecture and application development experience. Some of my recent experiences include being VP, Engineering at Fanminder, a Software Development Manager at Sagebrush Corporation and an Engineering Project Manager with Intuit Inc.
 thumbnail: dustin_friel_thumb.png
 

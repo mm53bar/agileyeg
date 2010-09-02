@@ -1,4 +1,4 @@
-categories: speakers
+categories: speakers, organizers
 thumbnail: jim_whitelaw_thumb.png
 summary: Jim Whitelaw has been leading software development initiatives for more than 15 years and has been using Agile techniques for more than ten. His focus has been on web-based and web-enabled applications, including library automation and online banking systems.
 

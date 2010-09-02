@@ -1,2 +1,5 @@
 presentations
+join
 speakers
+sponsors
+organizers
